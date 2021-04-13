@@ -19,4 +19,4 @@ def calculate(sheet):
     return rounded
 
 output = calculate(16)
-print("the return statement is: ", output)
+print("the number of stamps needed is: ", output)
